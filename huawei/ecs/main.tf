@@ -56,12 +56,12 @@ resource "huaweicloud_compute_instance_v2" "SEIDORVERITAS" {
 
 # Variables
 variable "ak" {
-  default = "1ANCUBFO0MXDJLQFX1OD"
+  default = ""
   type = string
 }
 
 variable "sk" {
-  default = "zr2Uw2o3w0tODqvKdjxp48i5BoTDJ66jAcL8cy43"
+  default = ""
   type = string
 }
 
